@@ -1,0 +1,164 @@
+Najbolji hiperparametri:
+min_freq = 1
+max_size = -1
+learning_rate = 1e-4
+batch_size_train = 10
+batch_size_test_validate = 32
+max_epochs = 5
+clip = 0.25
+rnn_cell = 'LSTM'
+num_layers = 3
+hidden_size = 200
+dropout = 0.4
+bidirectional = True
+prednauceneReprezentacije = True
+
+Seed 1/5: 7052020
+Epoch 1:
+	valid loss = 0.514
+	valid accuracy = 75.673%
+	valid F1 = 0.766
+
+Epoch 2:
+	valid loss = 0.483
+	valid accuracy = 76.936%
+	valid F1 = 0.797
+
+Epoch 3:
+	valid loss = 0.517
+	valid accuracy = 77.430%
+	valid F1 = 0.749
+
+Epoch 4:
+	valid loss = 0.469
+	valid accuracy = 79.517%
+	valid F1 = 0.803
+
+Epoch 5:
+	valid loss = 0.457
+	valid accuracy = 80.121%
+	valid F1 = 0.800
+
+	test loss = 0.472
+	test accuracy = 80.275%
+	test F1 = 0.798
+
+Seed 2/5: 1256437
+Epoch 1:
+	valid loss = 0.583
+	valid accuracy = 72.762%
+	valid F1 = 0.747
+
+Epoch 2:
+	valid loss = 0.502
+	valid accuracy = 77.595%
+	valid F1 = 0.761
+
+Epoch 3:
+	valid loss = 0.519
+	valid accuracy = 76.936%
+	valid F1 = 0.740
+
+Epoch 4:
+	valid loss = 0.455
+	valid accuracy = 79.242%
+	valid F1 = 0.803
+
+Epoch 5:
+	valid loss = 0.427
+	valid accuracy = 79.517%
+	valid F1 = 0.799
+
+	test loss = 0.454
+	test accuracy = 78.096%
+	test F1 = 0.784
+
+Seed 3/5: 3452674
+Epoch 1:
+	valid loss = 0.559
+	valid accuracy = 72.543%
+	valid F1 = 0.758
+
+Epoch 2:
+	valid loss = 0.468
+	valid accuracy = 77.869%
+	valid F1 = 0.800
+
+Epoch 3:
+	valid loss = 0.476
+	valid accuracy = 78.693%
+	valid F1 = 0.779
+
+Epoch 4:
+	valid loss = 0.455
+	valid accuracy = 78.583%
+	valid F1 = 0.802
+
+Epoch 5:
+	valid loss = 0.469
+	valid accuracy = 78.693%
+	valid F1 = 0.774
+
+	test loss = 0.477
+	test accuracy = 79.128%
+	test F1 = 0.771
+
+Seed 4/5: 9854326
+Epoch 1:
+	valid loss = 0.528
+	valid accuracy = 75.069%
+	valid F1 = 0.770
+
+Epoch 2:
+	valid loss = 0.471
+	valid accuracy = 78.473%
+	valid F1 = 0.763
+
+Epoch 3:
+	valid loss = 0.455
+	valid accuracy = 78.968%
+	valid F1 = 0.788
+
+Epoch 4:
+	valid loss = 0.493
+	valid accuracy = 77.485%
+	valid F1 = 0.743
+
+Epoch 5:
+	valid loss = 0.486
+	valid accuracy = 78.803%
+	valid F1 = 0.773
+
+	test loss = 0.479
+	test accuracy = 80.161%
+	test F1 = 0.786
+
+Seed 5/5: 8543219
+Epoch 1:
+	valid loss = 0.541
+	valid accuracy = 76.496%
+	valid F1 = 0.770
+
+Epoch 2:
+	valid loss = 0.462
+	valid accuracy = 77.869%
+	valid F1 = 0.794
+
+Epoch 3:
+	valid loss = 0.460
+	valid accuracy = 78.968%
+	valid F1 = 0.787
+
+Epoch 4:
+	valid loss = 0.451
+	valid accuracy = 79.681%
+	valid F1 = 0.793
+
+Epoch 5:
+	valid loss = 0.444
+	valid accuracy = 79.572%
+	valid F1 = 0.796
+
+	test loss = 0.468
+	test accuracy = 78.899%
+	test F1 = 0.783

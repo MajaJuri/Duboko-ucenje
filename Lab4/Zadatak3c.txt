@@ -1,0 +1,7 @@
+= Using device cpu
+> Loaded 60000 training images!
+> Loaded 10000 validation images!
+Computing mean representations for evaluation...
+Evaluating on test set...
+Test Accuracy: 82.15%
+Time (sec): 70.1

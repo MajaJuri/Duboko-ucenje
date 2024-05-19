@@ -1,0 +1,79 @@
+Seed 1/5: 7052020
+RNN model:
+	test loss = 0.471
+	test accuracy = 78.096%
+	test F1 = 0.790
+
+Basic model:
+	Test loss = 0.822
+	test accuracy = 52.982%
+	test F1 = 0.676
+
+Seed 2/5: 1256437
+RNN model:
+	test loss = 0.486
+	test accuracy = 78.211%
+	test F1 = 0.781
+
+Basic model:
+	Test loss = 0.848
+	test accuracy = 53.784%
+	test F1 = 0.680
+
+Seed 3/5: 3452674
+RNN model:
+	test loss = 0.464
+	test accuracy = 79.587%
+	test F1 = 0.796
+
+Basic model:
+	Test loss = 0.813
+	test accuracy = 53.899%
+	test F1 = 0.680
+
+Seed 4/5: 9854326
+RNN model:
+	test loss = 0.460
+	test accuracy = 79.128%
+	test F1 = 0.791
+
+Basic model:
+	Test loss = 0.798
+	test accuracy = 54.014%
+	test F1 = 0.681
+
+Seed 5/5: 8543219
+RNN model:
+	test loss = 0.496
+	test accuracy = 78.326%
+	test F1 = 0.787
+
+Basic model:
+	Test loss = 0.805
+	test accuracy = 54.587%
+	test F1 = 0.684
+
+RNN model:
+    avg loss = 0.475
+    std loss = 0.014
+
+    avg acc = 78.67%
+    std acc = 0.585
+
+    avg f1 = 0.789
+    std f1 = 0.005
+
+BASIC model:
+    avg loss = 0.8172
+    std loss = 0.017
+
+    avg acc = 53.853%
+    std acc = 0.516
+
+    avg f1 = 0.680
+    std f1 = 0.003
+
+
+
+
+

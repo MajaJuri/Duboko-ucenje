@@ -1,0 +1,136 @@
+Mijenjanje hiperparametara
+
+PARAMETAR MIN FREQ
+min_freq =  1
+RNN model:
+	test loss = 0.563
+	test accuracy = 72.477%
+	test F1 = 0.704
+
+Basic model:
+	Test loss = 0.824
+	test accuracy = 53.326%
+	test F1 = 0.678
+
+min_freq =  10
+RNN model:
+	test loss = 0.563
+	test accuracy = 72.477%
+	test F1 = 0.704
+
+Basic model:
+	Test loss = 0.824
+	test accuracy = 53.326%
+	test F1 = 0.678
+
+min_freq =  20
+RNN model:
+	test loss = 0.563
+	test accuracy = 72.477%
+	test F1 = 0.704
+
+Basic model:
+	Test loss = 0.824
+	test accuracy = 53.326%
+	test F1 = 0.678
+
+PARAMETAR LEARNING RATE
+learning rate =  0.0001
+RNN model:
+	test loss = 0.600
+	test accuracy = 69.725%
+	test F1 = 0.653
+
+Basic model:
+	Test loss = 0.840
+	test accuracy = 52.638%
+	test F1 = 0.674
+
+learning rate =  0.01
+RNN model:
+	test loss = 0.694
+	test accuracy = 50.917%
+	test F1 = 0.000
+
+Basic model:
+	Test loss = 0.558
+	test accuracy = 70.528%
+	test F1 = 0.652
+
+learning rate =  1
+RNN model:
+	test loss = 99787.019
+	test accuracy = 52.752%
+	test F1 = 0.594
+
+Basic model:
+	Test loss = 8.886
+	test accuracy = 49.083%
+	test F1 = 0.658
+
+PARAMETAR DROPOUT
+dropout =  0
+RNN model:
+	test loss = 0.694
+	test accuracy = 72.248%
+	test F1 = 0.705
+
+dropout =  0.4
+RNN model:
+	test loss = 0.600
+	test accuracy = 69.725%
+	test F1 = 0.653
+
+dropout =  0.8
+RNN model:
+	test loss = 0.679
+	test accuracy = 55.619%
+	test F1 = 0.251
+
+PARAMETAR BROJ SLOJEVA
+broj slojeva =  2
+RNN model:
+	test loss = 0.571
+	test accuracy = 70.986%
+	test F1 = 0.690
+
+broj slojeva =  5
+RNN model:
+	test loss = 0.595
+	test accuracy = 70.298%
+	test F1 = 0.662
+
+broj slojeva =  8
+RNN model:
+	test loss = 0.645
+	test accuracy = 64.908%
+	test F1 = 0.647
+
+PARAMETAR FREEZE
+freeze =  True
+RNN model:
+	test loss = 0.466
+	test accuracy = 79.128%
+	test F1 = 0.793
+
+Basic model:
+	Test loss = 0.840
+	test accuracy = 52.638%
+	test F1 = 0.674
+
+freeze =  False
+RNN model:
+	test loss = 0.600
+	test accuracy = 69.725%
+	test F1 = 0.653
+
+Basic model:
+	Test loss = 0.884
+	test accuracy = 49.083%
+	test F1 = 0.658
+
+MINFREQ -> nema veliki utjecaj na RNN model
+LEARNING RATE
+DROPOUT -> ima veliki utjecaj na RNN model, s većim dropoutom F1 mjera se smanjuje
+BROJ SLOJEVA -> nema veliki utjecaj
+FREEZE -> ima veliki utjecaj, ako koristimo prednaučene reprezentacije, onda je F1 mjera veća

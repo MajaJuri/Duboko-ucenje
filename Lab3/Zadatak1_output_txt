@@ -1,0 +1,15 @@
+14804
+{'positive': 0, 'negative': 1}
+Text: ['yet', 'the', 'act', 'is', 'still', 'charming', 'here']
+Label: positive
+Numericalized text: tensor([189,   2, 674,   7, 129, 348, 143], dtype=torch.int32)
+Numericalized label: tensor([0], dtype=torch.int32)
+Texts: tensor([[   2,  554,    7, 2872,    6,   22,    2, 2873, 1236,    8,   96, 4800,
+            4,   10,   72,    8,  242,    6,   75,    3, 3576,   56, 3577,   34,
+         2022, 2874, 7123, 3578, 7124,   42,  779, 7125,    0,    0],
+        [   2, 2875, 2023, 4801,    5,    2, 3579,    5,    2, 2876, 4802,    7,
+           40,  829,   10,    3, 4803,    5,  627,   62,   27, 2877, 2024, 4804,
+          962,  715,    8, 7126,  555,    5, 7127, 4805,    8, 7128]],
+       dtype=torch.int32)
+Labels: tensor([0, 0], dtype=torch.int32)
+Lengths: tensor([32, 34])

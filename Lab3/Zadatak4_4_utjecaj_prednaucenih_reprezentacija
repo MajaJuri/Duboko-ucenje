@@ -1,0 +1,122 @@
+Utjecaj prednaucenih reprezentacija:
+
+Seed 1/1: 7052020
+RNN model:
+Prednaucene reprezentacije:  True
+Epoch 1:
+	valid loss = 0.517
+	valid accuracy = 76.002%
+	valid F1 = 0.778
+
+Epoch 2:
+	valid loss = 0.472
+	valid accuracy = 77.430%
+	valid F1 = 0.792
+
+Epoch 3:
+	valid loss = 0.484
+	valid accuracy = 78.528%
+	valid F1 = 0.769
+
+Epoch 4:
+	valid loss = 0.465
+	valid accuracy = 80.231%
+	valid F1 = 0.808
+
+Epoch 5:
+	valid loss = 0.455
+	valid accuracy = 80.231%
+	valid F1 = 0.802
+
+	test loss = 0.471
+	test accuracy = 80.046%
+	test F1 = 0.798
+
+Basic model:
+Prednaucene reprezentacije:  True
+	Epoch 1:
+		valid loss = 0.963
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 2:
+		valid loss = 0.903
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 3:
+		valid loss = 0.908
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 4:
+		valid loss = 0.871
+		valid accuracy = 51.840%
+		valid F1 = 0.675
+	Epoch 5:
+		valid loss = 0.814
+		valid accuracy = 54.585%
+		valid F1 = 0.688
+	Test loss = 0.804
+	test accuracy = 54.014%
+	test F1 = 0.681
+
+Seed 1/1: 7052020
+RNN model:
+Prednaucene reprezentacije:  False
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.658
+	valid accuracy = 61.724%
+	valid F1 = 0.610
+
+Epoch 3:
+	valid loss = 0.667
+	valid accuracy = 61.669%
+	valid F1 = 0.466
+
+Epoch 4:
+	valid loss = 0.585
+	valid accuracy = 70.181%
+	valid F1 = 0.684
+
+Epoch 5:
+	valid loss = 0.593
+	valid accuracy = 70.950%
+	valid F1 = 0.672
+
+	test loss = 0.596
+	test accuracy = 69.381%
+	test F1 = 0.644
+
+Basic model:
+Prednaucene reprezentacije:  False
+	Epoch 1:
+		valid loss = 0.967
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 2:
+		valid loss = 0.815
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 3:
+		valid loss = 0.829
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 4:
+		valid loss = 0.865
+		valid accuracy = 50.137%
+		valid F1 = 0.668
+	Epoch 5:
+		valid loss = 0.887
+		valid accuracy = 50.192%
+		valid F1 = 0.668
+	Test loss = 0.888
+	test accuracy = 49.197%
+	test F1 = 0.659
+
+
+Za RNN model F1 mjera padne s 0.798 na 0.644 kada ne koristimo prednaučene reprezentacije.
+Za baseline model F1 mjera padne s 0.681 na 0.659 kada ne koristimo prednaučene reprezentacije.
+Znači da RNN model više pati od gubitka prednaučenih reprezentacija.

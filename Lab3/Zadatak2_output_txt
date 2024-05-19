@@ -1,0 +1,134 @@
+Baseline model
+hiperparametri:
+    min_freq = 1
+    max_size = -1
+    learning_rate = 1e-4
+    batch_size_train = 10
+    batch_size_test_validate = 32
+    max_epochs = 5
+    prednauceneReprezentacije = True
+
+Seed 1/5: 7052020
+	Epoch 1:
+		valid loss = 0.960
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 2:
+		valid loss = 0.922
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 3:
+		valid loss = 0.900
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 4:
+		valid loss = 0.853
+		valid accuracy = 52.224%
+		valid F1 = 0.677
+	Epoch 5:
+		valid loss = 0.811
+		valid accuracy = 54.805%
+		valid F1 = 0.688
+	Test loss = 0.801
+	test accuracy = 54.472%
+	test F1 = 0.683
+
+Seed 2/5: 1256437
+	Epoch 1:
+		valid loss = 0.971
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 2:
+		valid loss = 0.914
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 3:
+		valid loss = 0.910
+		valid accuracy = 50.192%
+		valid F1 = 0.668
+	Epoch 4:
+		valid loss = 0.902
+		valid accuracy = 52.389%
+		valid F1 = 0.678
+	Epoch 5:
+		valid loss = 0.874
+		valid accuracy = 54.366%
+		valid F1 = 0.686
+	Test loss = 0.865
+	test accuracy = 53.670%
+	test F1 = 0.679
+
+Seed 3/5: 3452674
+	Epoch 1:
+		valid loss = 0.971
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 2:
+		valid loss = 0.922
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 3:
+		valid loss = 0.907
+		valid accuracy = 50.137%
+		valid F1 = 0.668
+	Epoch 4:
+		valid loss = 0.871
+		valid accuracy = 51.949%
+		valid F1 = 0.676
+	Epoch 5:
+		valid loss = 0.830
+		valid accuracy = 54.366%
+		valid F1 = 0.686
+	Test loss = 0.820
+	test accuracy = 53.899%
+	test F1 = 0.680
+
+Seed 4/5: 9854326
+	Epoch 1:
+		valid loss = 0.972
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 2:
+		valid loss = 0.919
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 3:
+		valid loss = 0.905
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 4:
+		valid loss = 0.869
+		valid accuracy = 51.840%
+		valid F1 = 0.675
+	Epoch 5:
+		valid loss = 0.815
+		valid accuracy = 54.476%
+		valid F1 = 0.687
+	Test loss = 0.805
+	test accuracy = 53.784%
+	test F1 = 0.680
+
+Seed 5/5: 8543219
+	Epoch 1:
+		valid loss = 0.961
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 2:
+		valid loss = 0.893
+		valid accuracy = 50.082%
+		valid F1 = 0.667
+	Epoch 3:
+		valid loss = 0.911
+		valid accuracy = 50.192%
+		valid F1 = 0.668
+	Epoch 4:
+		valid loss = 0.883
+		valid accuracy = 52.499%
+		valid F1 = 0.678
+	Epoch 5:
+		valid loss = 0.833
+		valid accuracy = 54.585%
+		valid F1 = 0.687
+	Test loss = 0.822
+	test accuracy = 54.243%
+	test F1 = 0.682

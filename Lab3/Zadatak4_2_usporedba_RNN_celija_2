@@ -1,0 +1,1680 @@
+Model GRU:
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.612
+	valid accuracy = 71.499%
+	valid F1 = 0.683
+
+Epoch 3:
+	valid loss = 0.504
+	valid accuracy = 76.167%
+	valid F1 = 0.781
+
+Epoch 4:
+	valid loss = 0.470
+	valid accuracy = 78.583%
+	valid F1 = 0.791
+
+Epoch 5:
+	valid loss = 0.461
+	valid accuracy = 79.132%
+	valid F1 = 0.787
+
+	test loss = 0.467
+	test accuracy = 77.752%
+	test F1 = 0.768
+
+Model GRU
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.695
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.625
+	valid accuracy = 67.930%
+	valid F1 = 0.600
+
+Epoch 3:
+	valid loss = 0.498
+	valid accuracy = 77.485%
+	valid F1 = 0.778
+
+Epoch 4:
+	valid loss = 0.587
+	valid accuracy = 73.202%
+	valid F1 = 0.665
+
+Epoch 5:
+	valid loss = 0.465
+	valid accuracy = 78.309%
+	valid F1 = 0.800
+
+	test loss = 0.482
+	test accuracy = 77.867%
+	test F1 = 0.790
+
+Model GRU
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.693
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 4:
+	valid loss = 0.607
+	valid accuracy = 71.334%
+	valid F1 = 0.721
+
+Epoch 5:
+	valid loss = 0.548
+	valid accuracy = 76.057%
+	valid F1 = 0.756
+
+	test loss = 0.557
+	test accuracy = 73.624%
+	test F1 = 0.719
+
+Model GRU
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.696
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.685
+	valid accuracy = 52.883%
+	valid F1 = 0.162
+
+Epoch 4:
+	valid loss = 0.633
+	valid accuracy = 66.996%
+	valid F1 = 0.561
+
+Epoch 5:
+	valid loss = 0.554
+	valid accuracy = 74.794%
+	valid F1 = 0.728
+
+	test loss = 0.564
+	test accuracy = 73.968%
+	test F1 = 0.709
+
+Model GRU
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.536
+	valid accuracy = 76.551%
+	valid F1 = 0.759
+
+Epoch 2:
+	valid loss = 0.572
+	valid accuracy = 77.814%
+	valid F1 = 0.763
+
+Epoch 3:
+	valid loss = 0.458
+	valid accuracy = 78.913%
+	valid F1 = 0.785
+
+Epoch 4:
+	valid loss = 0.441
+	valid accuracy = 78.913%
+	valid F1 = 0.793
+
+Epoch 5:
+	valid loss = 0.426
+	valid accuracy = 79.132%
+	valid F1 = 0.803
+
+	test loss = 0.446
+	test accuracy = 80.505%
+	test F1 = 0.813
+
+Model GRU
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.501
+	valid accuracy = 76.936%
+	valid F1 = 0.789
+
+Epoch 2:
+	valid loss = 0.532
+	valid accuracy = 75.837%
+	valid F1 = 0.724
+
+Epoch 3:
+	valid loss = 0.450
+	valid accuracy = 79.132%
+	valid F1 = 0.806
+
+Epoch 4:
+	valid loss = 0.445
+	valid accuracy = 79.297%
+	valid F1 = 0.802
+
+Epoch 5:
+	valid loss = 0.454
+	valid accuracy = 79.132%
+	valid F1 = 0.787
+
+	test loss = 0.480
+	test accuracy = 79.128%
+	test F1 = 0.786
+
+Model GRU
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.684
+	valid accuracy = 52.938%
+	valid F1 = 0.191
+
+Epoch 2:
+	valid loss = 0.523
+	valid accuracy = 76.771%
+	valid F1 = 0.759
+
+Epoch 3:
+	valid loss = 0.608
+	valid accuracy = 71.444%
+	valid F1 = 0.629
+
+Epoch 4:
+	valid loss = 0.522
+	valid accuracy = 76.496%
+	valid F1 = 0.736
+
+Epoch 5:
+	valid loss = 0.481
+	valid accuracy = 77.210%
+	valid F1 = 0.768
+
+	test loss = 0.499
+	test accuracy = 77.867%
+	test F1 = 0.765
+
+Model GRU
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.684
+	valid accuracy = 50.906%
+	valid F1 = 0.049
+
+Epoch 2:
+	valid loss = 0.567
+	valid accuracy = 72.982%
+	valid F1 = 0.675
+
+Epoch 3:
+	valid loss = 0.504
+	valid accuracy = 77.155%
+	valid F1 = 0.761
+
+Epoch 4:
+	valid loss = 0.479
+	valid accuracy = 78.144%
+	valid F1 = 0.775
+
+Epoch 5:
+	valid loss = 0.507
+	valid accuracy = 77.759%
+	valid F1 = 0.763
+
+	test loss = 0.520
+	test accuracy = 76.720%
+	test F1 = 0.744
+
+Model GRU
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.640
+	valid accuracy = 65.513%
+	valid F1 = 0.589
+
+Epoch 2:
+	valid loss = 0.490
+	valid accuracy = 78.199%
+	valid F1 = 0.774
+
+Epoch 3:
+	valid loss = 0.456
+	valid accuracy = 79.132%
+	valid F1 = 0.791
+
+Epoch 4:
+	valid loss = 0.443
+	valid accuracy = 78.199%
+	valid F1 = 0.800
+
+Epoch 5:
+	valid loss = 0.434
+	valid accuracy = 79.846%
+	valid F1 = 0.787
+
+	test loss = 0.461
+	test accuracy = 78.211%
+	test F1 = 0.762
+
+Model GRU
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.605
+	valid accuracy = 71.334%
+	valid F1 = 0.699
+
+Epoch 2:
+	valid loss = 0.522
+	valid accuracy = 75.618%
+	valid F1 = 0.745
+
+Epoch 3:
+	valid loss = 0.503
+	valid accuracy = 76.661%
+	valid F1 = 0.755
+
+Epoch 4:
+	valid loss = 0.477
+	valid accuracy = 78.748%
+	valid F1 = 0.781
+
+Epoch 5:
+	valid loss = 0.465
+	valid accuracy = 79.132%
+	valid F1 = 0.799
+
+	test loss = 0.466
+	test accuracy = 80.046%
+	test F1 = 0.803
+
+Model GRU
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 51.565%
+	valid F1 = 0.622
+
+Epoch 2:
+	valid loss = 0.613
+	valid accuracy = 70.840%
+	valid F1 = 0.705
+
+Epoch 3:
+	valid loss = 0.546
+	valid accuracy = 74.410%
+	valid F1 = 0.762
+
+Epoch 4:
+	valid loss = 0.530
+	valid accuracy = 75.563%
+	valid F1 = 0.732
+
+Epoch 5:
+	valid loss = 0.664
+	valid accuracy = 68.149%
+	valid F1 = 0.564
+
+	test loss = 0.682
+	test accuracy = 68.349%
+	test F1 = 0.559
+
+Model GRU
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.697
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.617
+	valid accuracy = 68.973%
+	valid F1 = 0.615
+
+Epoch 3:
+	valid loss = 0.565
+	valid accuracy = 73.915%
+	valid F1 = 0.718
+
+Epoch 4:
+	valid loss = 0.547
+	valid accuracy = 74.794%
+	valid F1 = 0.728
+
+Epoch 5:
+	valid loss = 0.571
+	valid accuracy = 73.641%
+	valid F1 = 0.689
+
+	test loss = 0.576
+	test accuracy = 71.674%
+	test F1 = 0.658
+
+Model GRU
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.586
+	valid accuracy = 69.248%
+	valid F1 = 0.760
+
+Epoch 2:
+	valid loss = 0.497
+	valid accuracy = 77.210%
+	valid F1 = 0.753
+
+Epoch 3:
+	valid loss = 0.463
+	valid accuracy = 79.023%
+	valid F1 = 0.793
+
+Epoch 4:
+	valid loss = 0.439
+	valid accuracy = 79.462%
+	valid F1 = 0.815
+
+Epoch 5:
+	valid loss = 0.430
+	valid accuracy = 80.560%
+	valid F1 = 0.810
+
+	test loss = 0.458
+	test accuracy = 80.275%
+	test F1 = 0.804
+
+Model GRU
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.485
+	valid accuracy = 77.814%
+	valid F1 = 0.787
+
+Epoch 2:
+	valid loss = 0.476
+	valid accuracy = 77.375%
+	valid F1 = 0.753
+
+Epoch 3:
+	valid loss = 0.450
+	valid accuracy = 78.034%
+	valid F1 = 0.798
+
+Epoch 4:
+	valid loss = 0.459
+	valid accuracy = 79.681%
+	valid F1 = 0.789
+
+Epoch 5:
+	valid loss = 0.426
+	valid accuracy = 79.846%
+	valid F1 = 0.806
+
+	test loss = 0.444
+	test accuracy = 79.702%
+	test F1 = 0.804
+
+Model GRU
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.574
+	valid accuracy = 70.950%
+	valid F1 = 0.757
+
+Epoch 2:
+	valid loss = 0.516
+	valid accuracy = 76.771%
+	valid F1 = 0.751
+
+Epoch 3:
+	valid loss = 0.502
+	valid accuracy = 76.387%
+	valid F1 = 0.747
+
+Epoch 4:
+	valid loss = 0.515
+	valid accuracy = 75.618%
+	valid F1 = 0.714
+
+Epoch 5:
+	valid loss = 0.473
+	valid accuracy = 78.748%
+	valid F1 = 0.772
+
+	test loss = 0.492
+	test accuracy = 76.950%
+	test F1 = 0.746
+
+Model GRU
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.605
+	valid accuracy = 69.248%
+	valid F1 = 0.620
+
+Epoch 2:
+	valid loss = 0.523
+	valid accuracy = 76.826%
+	valid F1 = 0.772
+
+Epoch 3:
+	valid loss = 0.509
+	valid accuracy = 77.540%
+	valid F1 = 0.762
+
+Epoch 4:
+	valid loss = 0.513
+	valid accuracy = 74.080%
+	valid F1 = 0.690
+
+Epoch 5:
+	valid loss = 0.557
+	valid accuracy = 69.577%
+	valid F1 = 0.588
+
+	test loss = 0.570
+	test accuracy = 69.037%
+	test F1 = 0.574
+
+Model LSTM
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.581
+	valid accuracy = 75.014%
+	valid F1 = 0.759
+
+Epoch 3:
+	valid loss = 0.519
+	valid accuracy = 77.485%
+	valid F1 = 0.771
+
+Epoch 4:
+	valid loss = 0.519
+	valid accuracy = 77.705%
+	valid F1 = 0.763
+
+Epoch 5:
+	valid loss = 0.471
+	valid accuracy = 79.517%
+	valid F1 = 0.785
+
+	test loss = 0.485
+	test accuracy = 77.294%
+	test F1 = 0.757
+
+Model LSTM
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.601
+	valid accuracy = 71.115%
+	valid F1 = 0.660
+
+Epoch 3:
+	valid loss = 0.518
+	valid accuracy = 76.496%
+	valid F1 = 0.751
+
+Epoch 4:
+	valid loss = 0.470
+	valid accuracy = 79.132%
+	valid F1 = 0.789
+
+Epoch 5:
+	valid loss = 0.464
+	valid accuracy = 79.187%
+	valid F1 = 0.782
+
+	test loss = 0.492
+	test accuracy = 78.440%
+	test F1 = 0.768
+
+Model LSTM
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.652
+	valid accuracy = 54.256%
+	valid F1 = 0.234
+
+Epoch 4:
+	valid loss = 0.666
+	valid accuracy = 68.040%
+	valid F1 = 0.601
+
+Epoch 5:
+	valid loss = 0.597
+	valid accuracy = 72.378%
+	valid F1 = 0.675
+
+	test loss = 0.601
+	test accuracy = 71.445%
+	test F1 = 0.652
+
+Model LSTM
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.634
+	valid accuracy = 70.730%
+	valid F1 = 0.673
+
+Epoch 4:
+	valid loss = 0.595
+	valid accuracy = 71.170%
+	valid F1 = 0.662
+
+Epoch 5:
+	valid loss = 0.586
+	valid accuracy = 71.334%
+	valid F1 = 0.651
+
+	test loss = 0.590
+	test accuracy = 71.330%
+	test F1 = 0.642
+
+Model LSTM
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.520
+	valid accuracy = 76.442%
+	valid F1 = 0.773
+
+Epoch 2:
+	valid loss = 0.468
+	valid accuracy = 77.979%
+	valid F1 = 0.801
+
+Epoch 3:
+	valid loss = 0.479
+	valid accuracy = 77.375%
+	valid F1 = 0.753
+
+Epoch 4:
+	valid loss = 0.468
+	valid accuracy = 78.693%
+	valid F1 = 0.801
+
+Epoch 5:
+	valid loss = 0.476
+	valid accuracy = 80.231%
+	valid F1 = 0.799
+
+	test loss = 0.492
+	test accuracy = 79.817%
+	test F1 = 0.789
+
+Model LSTM
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.536
+	valid accuracy = 75.947%
+	valid F1 = 0.748
+
+Epoch 2:
+	valid loss = 0.462
+	valid accuracy = 78.089%
+	valid F1 = 0.800
+
+Epoch 3:
+	valid loss = 0.447
+	valid accuracy = 78.748%
+	valid F1 = 0.797
+
+Epoch 4:
+	valid loss = 0.460
+	valid accuracy = 78.968%
+	valid F1 = 0.789
+
+Epoch 5:
+	valid loss = 0.468
+	valid accuracy = 76.442%
+	valid F1 = 0.724
+
+	test loss = 0.485
+	test accuracy = 76.835%
+	test F1 = 0.729
+
+Model LSTM
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.595
+	valid accuracy = 69.248%
+	valid F1 = 0.742
+
+Epoch 2:
+	valid loss = 0.549
+	valid accuracy = 74.684%
+	valid F1 = 0.764
+
+Epoch 3:
+	valid loss = 0.737
+	valid accuracy = 68.753%
+	valid F1 = 0.583
+
+Epoch 4:
+	valid loss = 0.603
+	valid accuracy = 75.398%
+	valid F1 = 0.731
+
+Epoch 5:
+	valid loss = 0.654
+	valid accuracy = 72.378%
+	valid F1 = 0.655
+
+	test loss = 0.654
+	test accuracy = 72.706%
+	test F1 = 0.660
+
+Model LSTM
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.628
+	valid accuracy = 67.655%
+	valid F1 = 0.664
+
+Epoch 2:
+	valid loss = 0.525
+	valid accuracy = 75.892%
+	valid F1 = 0.763
+
+Epoch 3:
+	valid loss = 0.535
+	valid accuracy = 75.069%
+	valid F1 = 0.738
+
+Epoch 4:
+	valid loss = 0.513
+	valid accuracy = 77.155%
+	valid F1 = 0.773
+
+Epoch 5:
+	valid loss = 0.568
+	valid accuracy = 74.629%
+	valid F1 = 0.703
+
+	test loss = 0.583
+	test accuracy = 74.541%
+	test F1 = 0.695
+
+Model LSTM
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.669
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.518
+	valid accuracy = 76.716%
+	valid F1 = 0.771
+
+Epoch 3:
+	valid loss = 0.489
+	valid accuracy = 77.430%
+	valid F1 = 0.761
+
+Epoch 4:
+	valid loss = 0.520
+	valid accuracy = 77.155%
+	valid F1 = 0.740
+
+Epoch 5:
+	valid loss = 0.473
+	valid accuracy = 77.320%
+	valid F1 = 0.741
+
+	test loss = 0.497
+	test accuracy = 77.294%
+	test F1 = 0.740
+
+Model LSTM
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.554
+	valid accuracy = 75.618%
+	valid F1 = 0.768
+
+Epoch 3:
+	valid loss = 0.504
+	valid accuracy = 77.210%
+	valid F1 = 0.787
+
+Epoch 4:
+	valid loss = 0.501
+	valid accuracy = 77.979%
+	valid F1 = 0.774
+
+Epoch 5:
+	valid loss = 0.484
+	valid accuracy = 79.187%
+	valid F1 = 0.783
+
+	test loss = 0.502
+	test accuracy = 77.982%
+	test F1 = 0.766
+
+Model LSTM
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.695
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.685
+	valid accuracy = 65.678%
+	valid F1 = 0.583
+
+Epoch 3:
+	valid loss = 0.643
+	valid accuracy = 69.797%
+	valid F1 = 0.640
+
+Epoch 4:
+	valid loss = 0.672
+	valid accuracy = 65.568%
+	valid F1 = 0.517
+
+Epoch 5:
+	valid loss = 0.566
+	valid accuracy = 72.762%
+	valid F1 = 0.682
+
+	test loss = 0.581
+	test accuracy = 73.165%
+	test F1 = 0.678
+
+Model LSTM
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.578
+	valid accuracy = 72.982%
+	valid F1 = 0.709
+
+Epoch 4:
+	valid loss = 0.549
+	valid accuracy = 74.245%
+	valid F1 = 0.727
+
+Epoch 5:
+	valid loss = 0.548
+	valid accuracy = 74.519%
+	valid F1 = 0.720
+
+	test loss = 0.551
+	test accuracy = 74.771%
+	test F1 = 0.713
+
+Model LSTM
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.570
+	valid accuracy = 73.915%
+	valid F1 = 0.707
+
+Epoch 2:
+	valid loss = 0.508
+	valid accuracy = 78.309%
+	valid F1 = 0.791
+
+Epoch 3:
+	valid loss = 0.448
+	valid accuracy = 78.913%
+	valid F1 = 0.796
+
+Epoch 4:
+	valid loss = 0.461
+	valid accuracy = 79.132%
+	valid F1 = 0.785
+
+Epoch 5:
+	valid loss = 0.468
+	valid accuracy = 79.627%
+	valid F1 = 0.789
+
+	test loss = 0.495
+	test accuracy = 79.243%
+	test F1 = 0.780
+
+Model LSTM
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.526
+	valid accuracy = 76.442%
+	valid F1 = 0.756
+
+Epoch 2:
+	valid loss = 0.501
+	valid accuracy = 79.352%
+	valid F1 = 0.791
+
+Epoch 3:
+	valid loss = 0.474
+	valid accuracy = 78.748%
+	valid F1 = 0.778
+
+Epoch 4:
+	valid loss = 0.449
+	valid accuracy = 79.407%
+	valid F1 = 0.803
+
+Epoch 5:
+	valid loss = 0.464
+	valid accuracy = 78.748%
+	valid F1 = 0.774
+
+	test loss = 0.485
+	test accuracy = 78.326%
+	test F1 = 0.765
+
+Model LSTM
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.676
+	valid accuracy = 50.082%
+	valid F1 = 0.017
+
+Epoch 2:
+	valid loss = 0.548
+	valid accuracy = 75.233%
+	valid F1 = 0.753
+
+Epoch 3:
+	valid loss = 0.585
+	valid accuracy = 75.783%
+	valid F1 = 0.766
+
+Epoch 4:
+	valid loss = 0.589
+	valid accuracy = 74.025%
+	valid F1 = 0.695
+
+Epoch 5:
+	valid loss = 0.553
+	valid accuracy = 74.794%
+	valid F1 = 0.702
+
+	test loss = 0.566
+	test accuracy = 74.541%
+	test F1 = 0.695
+
+Model LSTM
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.617
+	valid accuracy = 67.765%
+	valid F1 = 0.738
+
+Epoch 2:
+	valid loss = 0.647
+	valid accuracy = 70.511%
+	valid F1 = 0.631
+
+Epoch 3:
+	valid loss = 0.581
+	valid accuracy = 71.938%
+	valid F1 = 0.650
+
+Epoch 4:
+	valid loss = 0.516
+	valid accuracy = 76.222%
+	valid F1 = 0.745
+
+Epoch 5:
+	valid loss = 0.561
+	valid accuracy = 73.806%
+	valid F1 = 0.692
+
+	test loss = 0.568
+	test accuracy = 74.083%
+	test F1 = 0.690
+
+Model Vanilla
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 49.973%
+	valid F1 = 0.002
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.694
+	valid accuracy = 49.863%
+	valid F1 = 0.002
+
+Epoch 4:
+	valid loss = 0.637
+	valid accuracy = 68.040%
+	valid F1 = 0.631
+
+Epoch 5:
+	valid loss = 0.563
+	valid accuracy = 74.190%
+	valid F1 = 0.764
+
+	test loss = 0.546
+	test accuracy = 75.229%
+	test F1 = 0.770
+
+Model Vanilla
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.693
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.613
+	valid accuracy = 70.346%
+	valid F1 = 0.702
+
+Epoch 4:
+	valid loss = 0.584
+	valid accuracy = 70.840%
+	valid F1 = 0.755
+
+Epoch 5:
+	valid loss = 0.544
+	valid accuracy = 76.222%
+	valid F1 = 0.755
+
+	test loss = 0.541
+	test accuracy = 76.950%
+	test F1 = 0.756
+
+Model Vanilla
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 49.863%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 4:
+	valid loss = 0.693
+	valid accuracy = 49.918%
+	valid F1 = 0.017
+
+Epoch 5:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+	test loss = 0.693
+	test accuracy = 50.917%
+	test F1 = 0.000
+
+Model Vanilla
+Num layers 1/2: 3
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 4:
+	valid loss = 0.693
+	valid accuracy = 51.455%
+	valid F1 = 0.648
+
+Epoch 5:
+	valid loss = 0.695
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+	test loss = 0.692
+	test accuracy = 50.917%
+	test F1 = 0.000
+
+Model Vanilla
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 50.851%
+	valid F1 = 0.654
+
+Epoch 2:
+	valid loss = 0.531
+	valid accuracy = 76.771%
+	valid F1 = 0.774
+
+Epoch 3:
+	valid loss = 0.580
+	valid accuracy = 74.574%
+	valid F1 = 0.751
+
+Epoch 4:
+	valid loss = 0.543
+	valid accuracy = 77.210%
+	valid F1 = 0.790
+
+Epoch 5:
+	valid loss = 0.503
+	valid accuracy = 77.814%
+	valid F1 = 0.763
+
+	test loss = 0.501
+	test accuracy = 78.096%
+	test F1 = 0.763
+
+Model Vanilla
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.706
+	valid accuracy = 56.123%
+	valid F1 = 0.238
+
+Epoch 2:
+	valid loss = 0.555
+	valid accuracy = 75.508%
+	valid F1 = 0.750
+
+Epoch 3:
+	valid loss = 0.522
+	valid accuracy = 76.771%
+	valid F1 = 0.770
+
+Epoch 4:
+	valid loss = 0.551
+	valid accuracy = 76.716%
+	valid F1 = 0.775
+
+Epoch 5:
+	valid loss = 0.536
+	valid accuracy = 77.375%
+	valid F1 = 0.786
+
+	test loss = 0.521
+	test accuracy = 78.326%
+	test F1 = 0.790
+
+Model Vanilla
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 50.796%
+	valid F1 = 0.655
+
+Epoch 2:
+	valid loss = 0.691
+	valid accuracy = 51.949%
+	valid F1 = 0.140
+
+Epoch 3:
+	valid loss = 0.640
+	valid accuracy = 67.051%
+	valid F1 = 0.565
+
+Epoch 4:
+	valid loss = 0.616
+	valid accuracy = 71.115%
+	valid F1 = 0.702
+
+Epoch 5:
+	valid loss = 0.619
+	valid accuracy = 69.907%
+	valid F1 = 0.731
+
+	test loss = 0.605
+	test accuracy = 71.330%
+	test F1 = 0.736
+
+Model Vanilla
+Num layers 1/2: 3
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.601
+	valid accuracy = 70.840%
+	valid F1 = 0.722
+
+Epoch 3:
+	valid loss = 0.557
+	valid accuracy = 74.025%
+	valid F1 = 0.739
+
+Epoch 4:
+	valid loss = 0.567
+	valid accuracy = 74.355%
+	valid F1 = 0.716
+
+Epoch 5:
+	valid loss = 0.590
+	valid accuracy = 72.652%
+	valid F1 = 0.705
+
+	test loss = 0.581
+	test accuracy = 73.509%
+	test F1 = 0.703
+
+Model Vanilla
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.694
+	valid accuracy = 49.808%
+	valid F1 = 0.011
+
+Epoch 3:
+	valid loss = 0.570
+	valid accuracy = 74.629%
+	valid F1 = 0.752
+
+Epoch 4:
+	valid loss = 0.565
+	valid accuracy = 73.751%
+	valid F1 = 0.768
+
+Epoch 5:
+	valid loss = 0.564
+	valid accuracy = 74.519%
+	valid F1 = 0.715
+
+	test loss = 0.565
+	test accuracy = 75.000%
+	test F1 = 0.716
+
+Model Vanilla
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.692
+	valid accuracy = 51.126%
+	valid F1 = 0.661
+
+Epoch 3:
+	valid loss = 0.570
+	valid accuracy = 74.025%
+	valid F1 = 0.747
+
+Epoch 4:
+	valid loss = 0.585
+	valid accuracy = 73.256%
+	valid F1 = 0.694
+
+Epoch 5:
+	valid loss = 0.600
+	valid accuracy = 74.190%
+	valid F1 = 0.708
+
+	test loss = 0.573
+	test accuracy = 75.917%
+	test F1 = 0.724
+
+Model Vanilla
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.973%
+	valid F1 = 0.002
+
+Epoch 2:
+	valid loss = 0.695
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.698
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 4:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 5:
+	valid loss = 0.694
+	valid accuracy = 50.027%
+	valid F1 = 0.007
+
+	test loss = 0.695
+	test accuracy = 51.147%
+	test F1 = 0.009
+
+Model Vanilla
+Num layers 2/2: 6
+Hidden size 1/2: 50
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 49.973%
+	valid F1 = 0.002
+
+Epoch 2:
+	valid loss = 0.693
+	valid accuracy = 50.686%
+	valid F1 = 0.652
+
+Epoch 3:
+	valid loss = 0.653
+	valid accuracy = 62.658%
+	valid F1 = 0.715
+
+Epoch 4:
+	valid loss = 0.646
+	valid accuracy = 68.644%
+	valid F1 = 0.671
+
+Epoch 5:
+	valid loss = 0.624
+	valid accuracy = 70.126%
+	valid F1 = 0.672
+
+	test loss = 0.616
+	test accuracy = 70.757%
+	test F1 = 0.666
+
+Model Vanilla
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.697
+	valid accuracy = 50.027%
+	valid F1 = 0.665
+
+Epoch 2:
+	valid loss = 0.567
+	valid accuracy = 74.355%
+	valid F1 = 0.764
+
+Epoch 3:
+	valid loss = 0.570
+	valid accuracy = 76.112%
+	valid F1 = 0.741
+
+Epoch 4:
+	valid loss = 0.548
+	valid accuracy = 73.092%
+	valid F1 = 0.669
+
+Epoch 5:
+	valid loss = 0.615
+	valid accuracy = 72.982%
+	valid F1 = 0.687
+
+	test loss = 0.605
+	test accuracy = 74.312%
+	test F1 = 0.695
+
+Model Vanilla
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 1/2: 0.4
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.698
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.594
+	valid accuracy = 70.291%
+	valid F1 = 0.749
+
+Epoch 4:
+	valid loss = 0.555
+	valid accuracy = 75.233%
+	valid F1 = 0.769
+
+Epoch 5:
+	valid loss = 0.543
+	valid accuracy = 76.277%
+	valid F1 = 0.751
+
+	test loss = 0.534
+	test accuracy = 77.064%
+	test F1 = 0.754
+
+Model Vanilla
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: True
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.693
+	valid accuracy = 49.423%
+	valid F1 = 0.159
+
+Epoch 2:
+	valid loss = 0.693
+	valid accuracy = 50.796%
+	valid F1 = 0.651
+
+Epoch 3:
+	valid loss = 0.696
+	valid accuracy = 50.192%
+	valid F1 = 0.062
+
+Epoch 4:
+	valid loss = 0.632
+	valid accuracy = 67.545%
+	valid F1 = 0.598
+
+Epoch 5:
+	valid loss = 0.615
+	valid accuracy = 70.950%
+	valid F1 = 0.689
+
+	test loss = 0.611
+	test accuracy = 72.706%
+	test F1 = 0.696
+
+Model Vanilla
+Num layers 2/2: 6
+Hidden size 2/2: 200
+Dropout 2/2: 0.8
+Bidirectional: False
+Seed 1/1: 7052020
+Epoch 1:
+	valid loss = 0.694
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 2:
+	valid loss = 0.696
+	valid accuracy = 49.918%
+	valid F1 = 0.000
+
+Epoch 3:
+	valid loss = 0.693
+	valid accuracy = 50.082%
+	valid F1 = 0.667
+
+Epoch 4:
+	valid loss = 0.603
+	valid accuracy = 71.334%
+	valid F1 = 0.730
+
+Epoch 5:
+	valid loss = 0.589
+	valid accuracy = 73.147%
+	valid F1 = 0.718
+
+	test loss = 0.574
+	test accuracy = 74.541%
+	test F1 = 0.724
+
